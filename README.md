@@ -21,6 +21,12 @@ Este projeto utiliza técnicas de regressão para prever o preço de imóveis co
 pip install -r requirements.txt
 ```
 
+## Evolução
+
+- Incluir mais variáveis categóricas, como tipo de residência por exemplo.
+- Testar modelos mais avançados como Random Forest ou Gradient Boosting.
+- Testar com validação cruzada.
+
 ## Autor
 
 Maximiliano Furtado.
